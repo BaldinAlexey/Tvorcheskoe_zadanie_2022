@@ -13,7 +13,7 @@
 (Примечание: файл .exe – хоть и является собранным решением, но без установки данных файлов, может и не запуститься).
 
 ## Калькулятор:
-### Последователньность действий:
+### Последовательность действий:
 ![картинка1](https://github.com/BaldinAlexey/classwork/blob/master/1.png)
 ![картинка1](https://github.com/BaldinAlexey/classwork/blob/master/2.png)
 ![картинка1](https://github.com/BaldinAlexey/classwork/blob/master/3.png)
@@ -21,6 +21,10 @@
 # Автор:
  Студент группы (ИВТ-21-1Б) - Балдин Алексей Игоревич
  
+ # Ссылка на youtube: https://www.youtube.com/watch?v=wiQh8Y7ZUk0
+
+ 
+
 
 
 
